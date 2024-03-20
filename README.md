@@ -1,4 +1,4 @@
-# spotify_aws_snowflake
+# aws s3 to snowflake
 Trasfer spotify data from AWS S3 to Snowflake
 1. Upload data into a S3 folder
 2. Create a role `snowflake_s3_access` of full s3 access for a s3 bucket and give permissions to snowflake
